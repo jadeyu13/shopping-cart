@@ -1,7 +1,7 @@
 {
   "homepage": "http://jadeyu13.github.it/shopping-cart",
   "name": "shopping-cart",
-  "private": true,
+  "private": "false",
   "version": "0.0.0",
   "scripts": {
     "predeploy" : "npm run build",
